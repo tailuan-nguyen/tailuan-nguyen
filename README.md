@@ -17,4 +17,4 @@
 
 <h2> My activity </h2>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tailuan-nguyen&theme=dark" alt="GitHub Streak" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=tailuan-nguyen&theme=dark" alt="GitHub Streak" />
