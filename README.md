@@ -4,14 +4,10 @@
 - 💼 My portfolio: **[Here](https://tailuannguyen.com)**
 - ✍️ What I'm working on: **[Building probabilistic models](https://github.com/tailuan-nguyen/binaryClassification)**
 - 🌱 I’m currently learning: **Regression Modeling**, **Data Structures and Algorithms**, **Artificial Intelligence**
-- 📫 How to reach me: **luan_nguyen_3@sfu.ca**
 - 📄 Know about my experiences: **[Resume](https://tailuannguyen.com/assets/images/tailuan_nguyen_sfu_data_resume.pdf?)**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I love biking and hiking**
-
-<h2 align="left">Connect with me:</h3>
-
-[![Connect with me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tailuannguyen/)
+- 📫 How to reach me: **luan_nguyen_3@sfu.ca**, **[LinkedIn](https://www.linkedin.com/in/tailuannguyen/)**, **[Instagram](https://www.instagram.com/tailuan_nguyen/)**
 
 <h2 align="left">Languages and Tools:</h2>
 
@@ -22,4 +18,4 @@
 <h2> My activity </h2>
 
 
-<p><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tailuan-nguyen&theme=dark)](https://git.io/streak-stats)" alt="luannguyen" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tailuan-nguyen&theme=dark)](https://git.io/streak-stats)" alt="luannguyen" /></p>
