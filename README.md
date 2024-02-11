@@ -11,7 +11,7 @@
 
 <h2 align="left">Languages and Tools:</h2>
 
-[![Languages and Tools](https://skillicons.dev/icons?i=py,r,cpp,c,mysql,java,html,css,js,git,docker,tensorflow,django)]()
+[![Languages and Tools](https://skillicons.dev/icons?i=py,r,cpp,c,mysql,postgres,java,html,css,js,git,docker,tensorflow,django)]()
 
 <br>
 
