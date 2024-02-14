@@ -5,7 +5,6 @@
 - ✍️ What I'm working on: **[Building probabilistic models](https://github.com/tailuan-nguyen/binaryClassification)**
 - 🌱 I’m currently learning: **Regression Modeling**, **Data Structures and Algorithms**, **Artificial Intelligence**
 - 📄 Know about my experiences: **[Resume](https://tailuannguyen.com/assets/images/tailuan_nguyen_sfu_data_resume.pdf?)**
-- 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I love biking and hiking**
 - 📫 How to reach me: **luan_nguyen_3@sfu.ca**, **[LinkedIn](https://www.linkedin.com/in/tailuannguyen/)**, **[Instagram](https://www.instagram.com/tailuan_nguyen/)**
 
